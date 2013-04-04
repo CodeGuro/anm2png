@@ -18,9 +18,6 @@
     <ClCompile Include="trunk\src\sources\adler32.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="trunk\src\sources\anm2png.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="trunk\src\sources\compress.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -106,6 +103,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="trunk\src\sources\zutil.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="trunk\src\sources\anm2png.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
