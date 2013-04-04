@@ -1,0 +1,7 @@
+Release/
+Debug/
+ipch/
+anm2png.opensdf
+anm2png.sdf
+anm2png/Debug/
+anm2png/Release/
