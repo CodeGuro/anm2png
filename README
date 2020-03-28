@@ -1,4 +1,4 @@
 The utility anm2png.exe is used to extract and convert Touhou animation from .anm to .PNG format.
 
-Included in this repository is a BSD 2-Clause License. You're free to do what you want with the source code so long as you don't drag my pseudonym through the mud.
+Included in this repository is a GPLv3 License.
 Libpng and zlib are used in this repo, so kudos to those contributors.
